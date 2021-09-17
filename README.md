@@ -1,8 +1,8 @@
-#Evaluating Efficiency and Accuracy of Deep Learning Based Approaches on Study Selection in Systematic Reviews and Meta-Analyses
+Evaluating Efficiency and Accuracy of Deep Learning Based Approaches on Study Selection in Systematic Reviews and Meta-Analyses
 
 By: Aaron J. Gorelik, B.S., Mark G. Gorelik, B.S.,Kathryn K. Ridout, M.D., Ph.D., Akua F. Nimarko, Ph.D., Virginia Peisch Ph.D., Shamanth R. Kuramkote B.A., Michelle Low, Tracy Pan, Simirthi Singh, Ananya Nrusimha B.A., Manpreet K. Singh, M.D. M.S
 
-All code for training models and the associated tests done is accessible through the following table:
+All code for training models and the associated tests done is accessible through the following table. Previous code is hosted is related to figure creation and earlier iterations of the paper.  
 
 | Task | BERT | SciBERT |
 | --- | --- | --- |
