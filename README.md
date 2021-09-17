@@ -1,4 +1,4 @@
-# Evaluating Efficiency and Accuracy of Deep Learning Based Approaches on Study Selection in Systematic Reviews and Meta-Analyses
+#Evaluating Efficiency and Accuracy of Deep Learning Based Approaches on Study Selection in Systematic Reviews and Meta-Analyses
 
 By: Aaron J. Gorelik, B.S., Mark G. Gorelik, B.S.,Kathryn K. Ridout, M.D., Ph.D., Akua F. Nimarko, Ph.D., Virginia Peisch Ph.D., Shamanth R. Kuramkote B.A., Michelle Low, Tracy Pan, Simirthi Singh, Ananya Nrusimha B.A., Manpreet K. Singh, M.D. M.S
 
