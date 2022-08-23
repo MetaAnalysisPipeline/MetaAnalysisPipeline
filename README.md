@@ -7,7 +7,7 @@ All code for training models and the associated tests done is accessible through
 | Task | BERT | SciBERT |
 | --- | --- | --- |
 | Grid Search | [Training on "Train"](https://colab.research.google.com/drive/1pFWNEqH3_LBtsX7Ais97wQgFcOs9dM_v?usp=sharing)  [Evaluation on "Test"](https://colab.research.google.com/drive/1fGAQRg87j5l2rlFIj_5iNbBJXmS_kCTA?usp=sharing) | [Training on "Train"](https://colab.research.google.com/drive/1g_eCdr6_V6_WeuBBO1d69xKbncqgwEJ5?usp=sharing)  [Evlaution on "Test"](https://colab.research.google.com/drive/1Ir2HoedAi4CCaZd47srfBguRQFZbld14?usp=sharing) |
-| Seed Stability | [Link](https://colab.research.google.com/drive/1DD8xIuLLp6zkiPmGbKrqEosFTYVR1EwG?usp=sharing) | [Link](https://colab.research.google.com/drive/1PKM7WwovGp_jFvKQCgpJBMc8ma9YBE0F?usp=sharing) |
-| Cross Validation | [Link](https://colab.research.google.com/drive/1Ir2HoedAi4CCaZd47srfBguRQFZbld14?usp=sharing) | [Link](https://colab.research.google.com/drive/1oQqYWad5Z5WdyyB5jlgG7hNyJo7hrg6O?usp=sharing) |
-| Subset Training |  | [Link](https://colab.research.google.com/drive/1NlJPmROGKBihSha-rAYcEdod0um4QfJd?usp=sharing) |
-| UMAP Generation (No longer included in the paper)| [Link](https://colab.research.google.com/drive/1zAOew0-QwnErDapzVKOgcr91ky61937L?usp=sharing) | [Link](https://colab.research.google.com/drive/1MY0zjyDzjhuv4h2GBS1zK8VVcNSev82z?usp=sharing) |
+| Seed Stability | [code](https://colab.research.google.com/drive/1DD8xIuLLp6zkiPmGbKrqEosFTYVR1EwG?usp=sharing) | [code](https://colab.research.google.com/drive/1PKM7WwovGp_jFvKQCgpJBMc8ma9YBE0F?usp=sharing) |
+| Cross Validation | [code](https://colab.research.google.com/drive/1Ir2HoedAi4CCaZd47srfBguRQFZbld14?usp=sharing) | [code](https://colab.research.google.com/drive/1oQqYWad5Z5WdyyB5jlgG7hNyJo7hrg6O?usp=sharing) |
+| Subset Training |  | [code](https://colab.research.google.com/drive/1NlJPmROGKBihSha-rAYcEdod0um4QfJd?usp=sharing) |
+| UMAP Generation (No longer included in the paper)| [code](https://colab.research.google.com/drive/1zAOew0-QwnErDapzVKOgcr91ky61937L?usp=sharing) | [code](https://colab.research.google.com/drive/1MY0zjyDzjhuv4h2GBS1zK8VVcNSev82z?usp=sharing) |
