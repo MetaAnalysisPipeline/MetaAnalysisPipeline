@@ -1,0 +1,563 @@
+Academic problem
+Acculturation problem
+Acute stress disorder
+ADD
+ADHD
+Adjustment
+Adjustment disorder
+Adjustment disorder, unspecified
+Adjustment disorder, with anxiety
+Adjustment disorder, with depressed mood
+Adjustment disorder, with disturbance of conduct
+Adjustment disorder, with mixed anxiety and depressed mood
+Adjustment disorder, with mixed disturbance of emotions and conduct
+Adjustment disorders
+Adult antisocial behavior
+Adverse effects of medication NOS
+Age-related cognitive decline
+Agoraphobia
+Agoraphobia without history of panic disorder
+Alcohol abuse
+Alcohol dependence
+Alcohol intoxication
+Alcohol intoxication delirium
+Alcohol use disorder
+Alcohol withdrawal
+Alcohol withdrawal delirium
+Amnestic disorder due to another medical condition
+Amnestic disorder NOS
+Amphetamine
+Amphetamine Abuse
+Amphetamine Dependence
+Amphetamine Intoxication
+Amphetamine Intoxication Delirium
+Amphetamine Withdrawal 
+Anorexia
+Anorexia nervosa
+Antisocial personality disorder
+Anxiety
+Anxiety disorder
+Anxiety disorder due to another medical condition
+Anxiety disorder NOS
+Asperger
+Asperger’s disorder
+Aspergers
+Attention deficit disorder
+Attention deficit hyperactivity disorder
+Attention-deficit/hyperactivity disorder
+Attention-deficit/hyperactivity disorder, combined type
+Attention-deficit/hyperactivity disorder, NOS
+Attention-deficit/hyperactivity disorder, predominantly hyperactive-impulsive type
+Attention-deficit/hyperactivity disorder, predominantly inattentive type
+Autism
+Autism spectrum
+Autism spectrum disorder
+Autistic disorder
+Avoidant personality disorder
+Avoidant/restrictive food intake disorder
+BD
+Bereavement
+Binge eating disorder
+Binge-eating disorder
+Bipolar
+Bipolar and related disorder due to another medical condition
+Bipolar disorder
+Bipolar disorder NOS
+Bipolar I disorder
+Bipolar I disorder, most recent episode depressed
+Bipolar I disorder, most recent episode hypomanic
+Bipolar I disorder, most recent episode manic
+Bipolar I disorder, most recent episode mixed
+Bipolar I disorder, most recent episode unspecified
+Bipolar I disorder, single manic episode
+Bipolar II disorder
+Body dysmorphic disorder
+Borderline intellectual functioning
+Borderline personality disorder
+Breathing-related sleep disorder
+Brief psychotic disorder
+Bulimia
+Bulimia nervosa
+Caffeine intoxication
+Caffeine withdrawal
+Cannabis abuse
+Cannabis dependence
+Cannabis intoxication
+Cannabis intoxication delirium
+Cannabis use disorder
+Cannabis withdrawal
+Catatonia associated with another medical disorder
+Catatonia disorder due to another medical condition
+Central sleep apnea
+Child or adolescent antisocial behavior
+Childhood disintegrative disorder
+Childhood onset fluency disorder 
+Chronic motor or vocal tic disorder
+Circadian rhythm sleep disorder
+Circadian rhythm sleep disorder, delayed sleep phase type
+Circadian rhythm sleep disorder, jet lag type
+Circadian rhythm sleep disorder, shift work type
+Circadian rhythm sleep disorder, unspecified type
+Circadian rhythm sleep-wake disorders
+Cocaine abuse
+Cocaine dependence
+Cocaine intoxication
+Cocaine intoxication delirium
+Cognitive disorder NOS
+Communication disorder
+Communication disorder NOS
+Conduct disorder
+Conduct disorder, adolescent-onset type
+Conduct disorder, childhood-onset type
+Conduct disorder, unspecified type
+Conversion disorder
+Cyclothymi
+Cyclothymi*
+Cyclothymia
+Cyclothymic
+Cyclothymic disorder 
+Delayed Ejaculation
+Delirium
+Delirium due to medical condition
+Delirium NOS
+Delusional disorder
+Dementia due to another medical condition
+Dementia due to Creutzfeld-Jakob disease
+Dementia due to head trauma
+Dementia due to HIV disease
+Dementia due to Huntington’s disease
+Dementia due to Parkinson’s disease
+Dementia due to Pick’s disease
+Dementia NOS
+Dementia of the Alzheimer’s Type, with early onset
+Dementia of the Alzheimer’s Type, with late onset
+Dependent personality disorder
+Depersonalization
+Depersonalization disorder
+Depersonalization/derealization disorder
+Depressed
+Depression
+Depressive
+Depressive disorder
+Depressive disorder due to another medical condition
+Depressive disorder NOS
+Derealization
+Derealization disorder
+Developmental coordination disorder
+Developmental delay
+Disinhibited social engagement disorder
+Disorder of infancy, childhood, or adolescence NOS
+Disorder of written expression
+Disruptive behavior disorder NOS
+Disruptive mood dysregulation disorder
+Dissociative amnesia
+Dissociative disorder
+Dissociative disorder NOS
+Dissociative fugue
+Dissociative identity disorder
+Dyspareunia (not due to a general medical condition)
+Dyssomnia NOS
+Dysthymi
+Dysthymi*
+Dysthymia 
+Dysthymic disorder
+Eating disorder NOS
+Enopresis
+Enopresis, with constipation and overflow incontinence
+Enopresis, without constipation and overflow incontinence
+Enuresis
+Enuresis (not due to a general medical condition)
+Erectile disorder
+Excoriation disorder
+Exhibitionism
+Exhibitionistic disorder
+Expressive language disorder
+Externalizing
+Externalizing disorder
+Factitious disorder
+Factitious disorder NOS
+Factitious disorder with combined psychological and physical signs and symptoms
+Factitious disorder with predominantly physical signs and symptoms
+Factitious disorder with predominantly psychological signs and symptoms
+Feeding disorder of infancy or early childhood
+Female dyspareunia due to a general medical condition
+Female hypoactive sexual desire disorder due to a general medical condition
+Female orgasmic disorder
+Female sexual interest/arousal disorder
+Fetishism
+Fetishistic disorder
+Frotteurism
+Frotteuristic disorder
+GAD
+Gambling disorder
+Gender dysphoria
+Gender identity disorder in adolescents or adults
+Gender identity disorder in children
+Gender identity disorder NOS
+General personality disorder
+Generalized anxiety disorder
+Genito-palvic pain/penetration disorder
+Global developmental delay
+Hallucinogen abuse
+Hallucinogen dependence
+Hallucinogen intoxication
+Hallucinogen intoxication delirium
+Hallucinogen persistng perception disorder
+Histrionic personality disorder
+Hoarding disorder
+Hypercondriasis
+Hypersomnia related to axis I or axis II disorder
+Hypersomnolence
+Hypersomnolence disorder
+Hypoactive sexual desire disorder
+Hypochondriasis
+Identity problem
+Illness anxiety disorder
+Impulse-control disorder NOS
+Inhalent abuse
+Inhalent intoxication
+Inhalent intoxication delirium
+Inhalent use disorder
+Inhärent dependence
+Insomnia
+Insomnia disorder
+Insomnia related to axis I or axis II disorder
+Intellectual disability
+Intermittent explosive disorder
+Internalizing
+Internalizing disorder
+Kleptomania
+Language disorder
+Learning disorder NOS
+Major depressive disorder
+Major depressive disorder, recurrent
+Major depressive disorder, single episode
+Major neurocognitive disorder
+Major or mild frontotemporal neurocognitive disorder
+Major or mild neurocognitive disorder due to alzheimer’s disease
+Major or mild neurocognitive disorder due to another medical condition
+Major or mild neurocognitive disorder due to HIV infection
+Major or mild neurocognitive disorder due to huntington’s disease
+Major or mild neurocognitive disorder due to multiple etiologies
+Major or mild neurocognitive disorder due to parkinson’s disease
+Major or mild neurocognitive disorder due to prion disease
+Major or mild neurocognitive disorder due to traumatic brain injury
+Major or mild neurocognitive disorder with lewy bodies
+Major or mild vascular neurocognitive disorder
+Male dyspareunia due to a general medical condition
+Male erectile disorder
+Male erectile disorder due to a general medical condition
+Male hypoactive sexual desire disorder
+Male orgasmic disorder
+Malingering
+Manic
+Manic depression
+Manic depressive 
+Manic-depressive 
+Mathematics disorder
+MDD
+Medication-Induced Movement Disorder NOS
+Medication-Induced Postural Tremor
+Mental disorder 
+Mental disorder NOS due to another medical condition
+Mental disorders
+Mental illness
+Mental retardation, severity unspecified
+Mild mental retardation
+Mild neurocognitive disorder
+Mixed receptive-expressive language disorder
+Moderate mental retardation
+Mood disorder 
+Mood disorder due to a general medical condition
+Mood disorder NOS
+Mood disorders
+Narcissistic personality disorder
+Narcolepsy
+Neglect of child
+Neuroleptic Malignant Syndrome 
+Neuroleptic-Induced Acute Akathisia
+Neuroleptic-Induced Acute Dystonia
+Neuroleptic-Induced Parkinsonism
+Neuroleptic-Induced Tardive Dyskinesia
+Nicotine dependence
+Nicotine withdrawal
+Nightmare disorder
+Non-rapid eye movement sleep arousal disorder
+Obsessive compulsive disorder
+Obsessive compulsive personality disorder
+Obsessive-compulsive and related disorder due to another medical condition
+Obsessive-compulsive disorder
+Obsessive-compulsive personality disorder
+Obstructive sleep apnea hypopnea
+Occupational Problem
+OCD
+Opioid abuse
+Opioid dependence
+Opioid intoxication
+Opioid intoxication delirium
+Opioid use disorder
+Opioid withdrawal
+Oppositional defiant disorder
+Other (or unknown) substance intoxication
+Other (or unknown) substance use disorder
+Other (or unknown) substance withdrawal
+Other (or unknown) substance-induced disorders
+Other alcohol-induced disorders
+Other caffeine-induced disorders
+Other cannabis-induced disorders
+Other female sexual dysfunction due to another medical condition
+Other hallucinogen intoxication
+Other hallucinogen intoxication
+Other hallucinogen use disorder
+Other hallucinogen use disorder
+Other hallucinogen-induced disorder
+Other inhalant-induced disorders
+Other male sexual dysfunction due to another medical condition
+Other opioid-induced disorders
+Other phencyclidine-induced disorders
+Other sedative-, hypnotic-, or anxiolytic-induced disorders
+Other specified anxiety disorder
+Other specified attention-deficit/hyperactivity disorder
+Other specified bipolar and related disorder
+Other specified delirium
+Other specified depressive disorder
+Other specified disruptive, impulse-control, and conduct disorder
+Other specified dissociative disorder
+Other specified elimination disorder
+Other specified feeding or eating disorder
+Other specified gender dysphoria
+Other specified hypersomnolence disorder
+Other specified insomnia disorder
+Other specified mental disorder
+Other specified mental disorder due to another medical condition
+Other specified neurodevelopment disorder
+Other specified obsessive-compulsive and related disorder
+Other specified paraphilia disorder
+Other specified personality disorder
+Other specified schizophrenia spectrum and other psychotic disorder
+Other specified sexual disfunction
+Other specified sleep-wake disorder
+Other specified somatic symptoms and related disorder
+Other specified tic disorder
+Other specified trauma- and stress-related disorder
+Other stimulant-induced disorders
+Other substance abuse
+Other substance dependence
+Other substance intoxication
+Other substance withdrawal
+Other tobacco-induced disorders
+Pain disorder associated with both psychological factors and a general medical condition
+Pain disorder associated with psychological factors
+Panic 
+Panic attack
+Panic disorder
+Panic disorder with agoraphobia
+Panic disorder without agoraphobia
+Paranoid personality disorder
+Paraphilia NOS
+Parasomnia 
+Parasomnia NOS
+Parent-child relational problem
+Partner-relational problem
+Pathological gambling
+Pedophilia
+Pedophilic disorder
+Persistent (chronic) motor or vocal tic disorder
+Persistent depressive disorder
+Personality change due to another medical condition
+Personality change NOS
+Pervasive developmental disorder NOS
+Phase of life problem
+Phencyclidine abuse
+Phencyclidine dependence
+Phencyclidine intoxication
+Phencyclidine intoxication delirium
+Phencyclidine use disorder
+Phobia
+Phonological disorder
+Physical abuse of adult (if by partner)
+Physical abuse of adult (if by person other than partner)
+Physical abuse of adult (if focus of attention is on victim)
+Physical abuse of child
+Physical abuse of child (if focus of attention is on victim)
+Pica
+PMDD
+Polysubstance dependence
+Post traumatic stress disorder
+Post-traumatic stress disorder
+Posttraumatic stress disorder
+Premature (early) ejaculation
+Premature ejaculation
+Premenstrual dysphoric disorder
+Premenstural dysphoric disorder
+Primary hypersomnia
+Primary insomnia
+Profound mental retardation
+Provisional tic disorder
+Psychological factors affecting medical condition
+Psychopathology
+Psychotic disorder due to another medical condition
+Psychotic disorder due to another medical condition with delusions
+Psychotic disorder due to another medical condition with hallucinations
+Psychotic disorder NOS
+PTSD
+Pyromania
+Rapid eye movement sleep behavior disorder
+Reactive attachment disorder
+Reactive attachment disorder of infancy or early childhood
+Reading disorder
+Relational problem NOS
+Relational problem related to a mental disorder or general medical condition
+Religious or spiritual problem
+Restless legs syndrome
+Rett’s disorder
+Rumination disorder
+SAD
+Schizoaffective disorder
+Schizoid personality disorder
+Schizophreni
+Schizophreni*
+Schizophrenia
+Schizophrenia catatonic type
+Schizophrenia disorganized type
+Schizophrenia paranoid type
+Schizophrenia residual type
+Schizophrenia undifferentiated type
+Schizophreniform disorder
+Schizotypal (personality) disorder
+Schizotypal personality disorder
+Seasonal affective  
+Seasonal affective disorder
+Seasonal affective disorder
+Seasonal depression
+Sedadative, hypnotic, or anxiolitic abuse
+Sedadative, hypnotic, or anxiolitic dependance
+Sedadative, hypnotic, or anxiolitic intoxication
+Sedadative, hypnotic, or anxiolitic intoxication delirium
+Sedadative, hypnotic, or anxiolitic use disorder
+Sedadative, hypnotic, or anxiolitic withdrawal
+Sedadative, hypnotic, or anxiolitic withdrawal delirium
+Selective mutism
+Separation anxiety disorder
+Severe mental retardation
+Sexual abuse of adult (if by partner)
+Sexual abuse of adult (if by person other than partner)
+Sexual abuse of adult (if focus of attention is on victim)
+Sexual abuse of child
+Sexual abuse of child (if focus of attention is on victim)
+Sexual aversion disorder
+Sexual disorder NOS
+Sexual dysfunction NOS
+Sexual masochism 
+Sexual masochism disorder
+Sexual sadism
+Sexual sadism disorder
+Shared psychotic disorder
+Sibling related problem
+Sleep disorder due to another general medical condition
+Sleep disorder due to hypersomnia type
+Sleep disorder due to insomnia type
+Sleep disorder due to mixed type
+Sleep disorder due to parasomnia type
+Sleep eating
+Sleep talking
+Sleep terror
+Sleep terror disorder
+Sleep walking
+Sleep walking disorder
+Sleep-related hypoventilation
+Social (pragmatic) communication disorder
+Social anxiety 
+Social anxiety disorder
+Social phobia
+Somatic symptom disorder
+Somatization disorder
+Somatization disorder NOS
+Specific learning disorder
+Specific phobia
+Speech sound disorder
+Stereotypic movement disorder
+Stimulant abuse
+Stimulant intoxication
+Stimulant use disorder
+Stimulant withdrawal
+Stuttering
+Substance abuse
+Substance abuse disorder
+Substance use
+Substance use disorder
+Substance use disorders
+Substance-abuse 
+Substance-abuse disorder
+Substance-induced disorder
+Substance-use
+Substance-use disorder
+Substance-use disorders
+Substance/medication-induced anxiety disorder
+Substance/medication-induced bipolar and related disorder
+Substance/medication-induced depressive disorder
+Substance/medication-induced major or mild neurocognitive disorder
+Substance/medication-induced obsessive-compulsive disorder
+Substance/medication-induced psychotic disorder
+Substance/medication-induced sexual dysfunction
+Substance/medication-induced sleep disorder
+Tic 
+Tic disorder
+Tic disorder NOS
+Tobacco abuse
+Tobacco use disorder
+Tobacco withdrawal
+Tourettes’s disorder
+Transient tic disorder
+Transvestic disorder
+Transvestic fetishism
+Trichotillomania
+Undifferentiated somataform disorder
+Unipolar depression
+Unspecified alcohol-related disorder
+Unspecified anxiety disorder
+Unspecified attention-deficit/hyperactivity disorder
+Unspecified bipolar and related disorder
+Unspecified caffeine-related disorder
+Unspecified cannabis-related disorder
+Unspecified catatonia
+Unspecified communication disorder
+Unspecified delirium
+Unspecified depressive disorder
+Unspecified disruptive, impulse-control, and conduct disorder
+Unspecified dissociative disorder
+Unspecified elimination disorder
+Unspecified feeding or eating disorder
+Unspecified gender dysmorphia
+Unspecified hallucinogen-related disorder
+Unspecified hypersomnolence disorder
+Unspecified inhalant-related disorder
+Unspecified insomnia disorder
+Unspecified intellectual disability
+Unspecified mental disorder
+Unspecified mental disorder (non psychotic)
+Unspecified mental disorder due to another medical condition
+Unspecified neurocognitive disorder
+Unspecified neurodevelopmental disorder
+Unspecified obsessive-compulsive and related disorder
+Unspecified opioid-related disorder
+Unspecified other (or unknown) substance-related disorder
+Unspecified paraphilia disorder
+Unspecified phencyclidine-related disorder
+Unspecified schizophrenia spectrum and other psychotic disorder
+Unspecified sedative-, hypnotic, or anxiolytic-related disorder
+Unspecified sexual disfunction
+Unspecified sleep-wake disorder
+Unspecified somatic symptom and related disorder
+Unspecified stimulant-related disorder
+Unspecified tic disorder
+Unspecified tobacco-related disorder
+Unspecified trauma-and stress-related disorder
+Vaginismus (not due to a general medical condition)
+Vascular dementia
+Vascular dementia uncomplicated 
+Vascular dementia with delirium
+Vascular dementia with delusions
+Vascular dementia with depressed mood 
+Voyeurism
+Voyeuristic disorder
